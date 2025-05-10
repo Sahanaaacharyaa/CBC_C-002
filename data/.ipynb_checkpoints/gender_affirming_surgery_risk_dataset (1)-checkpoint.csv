@@ -1,0 +1,301 @@
+Age,Gender_Identity,Surgery_Type,Hormone_Therapy_Duration_Months,Comorbidities,Family_Support,Smoking,Insurance_Status,Mental_Health_PreOp,Surgeon_Experience_Years,Time_Since_Surgery_Days,PostOp_Risk_Level,Mental_Health_Score,Diabetes,HIV,Other_Mental_Health,Complications
+56,Trans Woman,Phalloplasty,37,Multiple,Yes,No,Private,None,15,211,Low,0,1,1,1,None
+46,Trans Woman,Top Surgery,50,None,Yes,No,Public,Severe,9,65,Medium,10,0,0,0,None
+32,Trans Man,Phalloplasty,56,None,No,Yes,Public,Mild,7,270,High,10,0,0,0,None
+25,Trans Woman,Top Surgery,1,None,Partial,No,Private,None,2,18,Medium,4,0,0,0,None
+38,Trans Woman,Top Surgery,14,Multiple,Partial,No,Private,Mild,9,125,Medium,1,1,1,1,None
+56,Trans Woman,Top Surgery,10,Diabetes,No,No,Public,Mild,10,296,Medium,1,1,0,0,None
+36,Trans Man,Vaginoplasty,7,Diabetes,No,No,Private,None,2,344,Medium,6,1,0,0,Infection
+40,Non-binary,Vaginoplasty,25,None,Partial,No,Public,Mild,19,254,Medium,7,0,0,0,Need for Revision Surgery
+28,Trans Woman,Phalloplasty,50,Mental Health,Partial,No,Private,Mild,11,360,Medium,9,0,0,1,Infection
+28,Trans Man,Top Surgery,44,None,Partial,No,Private,None,13,133,Low,7,0,0,0,Need for Revision Surgery
+41,Trans Woman,Top Surgery,43,HIV,Partial,No,Private,Severe,10,81,High,3,0,1,0,Bleeding
+53,Trans Woman,Vaginoplasty,4,None,Partial,Yes,Uninsured,Severe,14,210,High,0,0,0,0,None
+57,Non-binary,Top Surgery,5,None,Partial,No,Public,Mild,18,55,Medium,10,0,0,0,None
+41,Trans Man,Vaginoplasty,25,None,Yes,No,Uninsured,Mild,19,85,Low,6,0,0,0,None
+20,Trans Woman,Top Surgery,53,None,No,No,Public,Mild,9,247,Medium,0,0,0,0,None
+39,Trans Woman,Phalloplasty,3,Diabetes,No,No,Private,Mild,7,355,Medium,10,1,0,0,Scarring
+19,Non-binary,Top Surgery,18,None,Yes,No,Public,Mild,3,160,Medium,3,0,0,0,None
+41,Trans Man,Top Surgery,19,Mental Health,Partial,No,Public,None,6,280,Medium,7,0,0,1,None
+47,Trans Man,Facial Feminization,32,None,Yes,No,Public,Mild,2,102,Medium,1,0,0,0,None
+55,Trans Man,Vaginoplasty,19,Diabetes,Yes,Yes,Private,Severe,6,220,Medium,5,1,0,0,Mental Health Relapse
+19,Trans Man,Top Surgery,48,None,Partial,No,Public,Mild,3,300,Medium,5,0,0,0,Loss of Sensation
+38,Trans Woman,Top Surgery,11,None,Yes,No,Private,None,16,215,Low,8,0,0,0,Scarring
+50,Trans Man,Facial Feminization,46,Diabetes,Partial,Yes,Private,Mild,8,349,Medium,4,1,0,0,None
+29,Trans Man,Facial Feminization,0,None,Partial,No,Public,None,2,94,Medium,9,0,0,0,Loss of Sensation
+39,Trans Woman,Vaginoplasty,25,None,Yes,No,Public,None,17,312,Low,3,0,0,0,Loss of Sensation
+42,Non-binary,Facial Feminization,13,HIV,Yes,No,Private,None,9,270,Low,4,0,1,0,Bleeding
+44,Trans Man,Phalloplasty,37,HIV,Yes,No,Private,None,12,331,Low,9,0,1,0,Mental Health Relapse
+59,Trans Man,Facial Feminization,36,None,Partial,No,Public,Mild,3,326,Medium,10,0,0,0,None
+45,Trans Woman,Phalloplasty,10,None,No,No,Public,Mild,11,163,Medium,4,0,0,0,Need for Revision Surgery
+33,Trans Man,Vaginoplasty,35,Diabetes,Partial,No,Public,None,1,162,Medium,7,1,0,0,Need for Revision Surgery
+32,Trans Man,Vaginoplasty,12,None,Yes,No,Uninsured,Severe,13,145,Medium,9,0,0,0,None
+20,Trans Man,Vaginoplasty,42,None,Partial,No,Public,Severe,15,127,Medium,7,0,0,0,Infection
+54,Trans Man,Vaginoplasty,2,None,Yes,No,Private,Severe,5,71,Medium,1,0,0,0,Urinary Issues
+24,Trans Woman,Vaginoplasty,32,Mental Health,Partial,No,Public,None,17,113,Medium,6,0,0,1,None
+38,Trans Man,Phalloplasty,5,Mental Health,Yes,No,Public,Mild,6,153,Medium,7,0,0,1,Infection
+26,Trans Woman,Phalloplasty,49,None,Partial,No,Private,Severe,11,143,Medium,10,0,0,0,Urinary Issues
+56,Trans Woman,Vaginoplasty,55,None,Yes,No,Public,Mild,18,168,Low,5,0,0,0,Bleeding
+35,Trans Man,Facial Feminization,9,None,No,No,Private,None,4,106,Medium,4,0,0,0,None
+21,Trans Woman,Top Surgery,4,Mental Health,Yes,Yes,Uninsured,None,3,344,Medium,10,0,0,1,Bleeding
+42,Trans Man,Vaginoplasty,22,None,Partial,No,Public,Mild,13,313,Medium,8,0,0,0,None
+31,Trans Woman,Facial Feminization,9,None,No,Yes,Public,Severe,9,147,High,2,0,0,0,Infection
+26,Trans Man,Top Surgery,43,Mental Health,Yes,No,Public,Mild,6,89,Medium,9,0,0,1,None
+43,Trans Man,Vaginoplasty,1,None,No,No,Public,Mild,12,183,Medium,3,0,0,0,Bleeding
+19,Trans Woman,Vaginoplasty,12,Mental Health,Partial,No,Public,None,2,204,Medium,8,0,0,1,Infection
+37,Trans Man,Phalloplasty,39,None,Yes,No,Public,Mild,3,118,Medium,5,0,0,0,Scarring
+45,Trans Man,Top Surgery,1,None,Yes,No,Private,Severe,3,62,Medium,7,0,0,0,Bleeding
+24,Trans Man,Top Surgery,19,None,Partial,No,Public,None,12,185,Low,6,0,0,0,Infection
+25,Trans Man,Facial Feminization,0,Mental Health,Yes,No,Private,Mild,15,192,Medium,10,0,0,1,Scarring
+52,Trans Woman,Phalloplasty,36,HIV,Yes,No,Public,Severe,9,224,Medium,1,0,1,0,None
+31,Trans Man,Phalloplasty,8,Mental Health,Yes,No,Public,None,8,322,Low,2,0,0,1,Bleeding
+34,Trans Woman,Phalloplasty,16,None,Partial,Yes,Public,Mild,11,223,Medium,0,0,0,0,None
+53,Trans Woman,Phalloplasty,8,Mental Health,Yes,No,Private,None,16,126,Low,8,0,0,1,Need for Revision Surgery
+57,Trans Woman,Top Surgery,10,None,No,No,Private,Mild,4,181,High,6,0,0,0,None
+21,Trans Man,Top Surgery,14,None,No,No,Public,Mild,1,29,High,0,0,0,0,Infection
+19,Trans Man,Vaginoplasty,23,HIV,No,No,Private,Mild,7,219,High,2,0,1,0,Scarring
+23,Non-binary,Vaginoplasty,37,None,Partial,No,Private,Mild,2,241,Medium,3,0,0,0,Infection
+59,Trans Woman,Phalloplasty,54,None,Yes,No,Private,None,5,19,Low,3,0,0,0,None
+21,Trans Woman,Phalloplasty,34,None,Partial,No,Uninsured,Severe,7,107,Medium,4,0,0,0,Bleeding
+46,Trans Man,Phalloplasty,29,None,Yes,No,Public,Mild,4,30,Medium,2,0,0,0,Bleeding
+35,Trans Man,Vaginoplasty,30,None,Yes,Yes,Private,None,5,17,Low,2,0,0,0,Scarring
+43,Trans Man,Facial Feminization,48,Diabetes,Yes,No,Private,Mild,1,279,Medium,0,1,0,0,None
+51,Trans Woman,Facial Feminization,4,None,Yes,No,Private,Mild,1,287,Medium,6,0,0,0,Bleeding
+27,Trans Man,Vaginoplasty,59,HIV,Partial,No,Public,None,15,100,Medium,10,0,1,0,Infection
+53,Trans Woman,Vaginoplasty,43,Mental Health,Partial,No,Public,Severe,19,207,High,9,0,0,1,Scarring
+31,Trans Man,Vaginoplasty,49,None,Yes,No,Private,Severe,10,27,Medium,0,0,0,0,Bleeding
+48,Non-binary,Vaginoplasty,13,None,Yes,No,Private,None,18,346,Low,1,0,0,0,Infection
+32,Trans Woman,Vaginoplasty,52,None,No,No,Private,Severe,3,217,High,3,0,0,0,None
+25,Trans Woman,Vaginoplasty,55,Diabetes,Yes,No,Public,None,11,146,Low,3,1,0,0,None
+31,Trans Man,Phalloplasty,10,None,Yes,No,Public,None,15,299,Low,4,0,0,0,None
+40,Trans Woman,Phalloplasty,8,Diabetes,Yes,No,Private,None,11,304,Low,10,1,0,0,None
+57,Trans Woman,Phalloplasty,33,None,Partial,Yes,Private,Severe,17,107,High,1,0,0,0,Infection
+38,Trans Man,Phalloplasty,11,Diabetes,Partial,Yes,Private,Mild,17,310,Medium,3,1,0,0,Bleeding
+33,Trans Man,Vaginoplasty,34,None,Yes,Yes,Uninsured,None,6,34,Low,0,0,0,0,None
+35,Non-binary,Facial Feminization,34,None,Yes,No,Private,Mild,5,47,Low,1,0,0,0,Need for Revision Surgery
+41,Trans Woman,Top Surgery,0,HIV,Partial,No,Public,Mild,8,361,Medium,0,0,1,0,None
+43,Trans Man,Vaginoplasty,39,Mental Health,Partial,No,Public,None,2,309,Medium,9,0,0,1,Loss of Sensation
+42,Trans Man,Top Surgery,21,None,Yes,No,Private,Severe,16,152,Medium,9,0,0,0,Bleeding
+58,Trans Woman,Facial Feminization,59,HIV,No,Yes,Private,Severe,12,262,High,3,0,1,0,None
+46,Trans Woman,Phalloplasty,28,None,Yes,No,Private,Mild,6,233,Low,3,0,0,0,None
+32,Trans Man,Facial Feminization,7,HIV,Yes,No,Public,Severe,1,242,High,6,0,1,0,Bleeding
+18,Trans Man,Vaginoplasty,10,Mental Health,No,Yes,Public,Mild,4,19,High,9,0,0,1,None
+42,Trans Man,Phalloplasty,40,None,Yes,No,Public,Severe,17,216,Medium,10,0,0,0,Need for Revision Surgery
+24,Trans Woman,Vaginoplasty,36,None,Partial,No,Public,Mild,13,235,Medium,10,0,0,0,Infection
+26,Trans Woman,Phalloplasty,13,None,Yes,No,Private,Mild,18,106,Low,8,0,0,0,Need for Revision Surgery
+41,Trans Man,Top Surgery,59,Diabetes,Yes,No,Uninsured,None,5,37,Low,8,1,0,0,None
+18,Non-binary,Top Surgery,29,Diabetes,No,No,Public,Severe,3,22,High,4,1,0,0,Scarring
+25,Trans Woman,Top Surgery,34,None,Yes,No,Private,Mild,11,143,Low,9,0,0,0,Bleeding
+41,Trans Man,Facial Feminization,20,None,No,No,Uninsured,None,13,335,Medium,0,0,0,0,Scarring
+28,Trans Man,Vaginoplasty,36,Mental Health,Yes,No,Public,None,4,172,Medium,0,0,0,1,None
+34,Trans Man,Facial Feminization,4,Multiple,Yes,No,Public,Mild,14,316,Medium,5,1,1,1,Scarring
+25,Non-binary,Top Surgery,18,Diabetes,Yes,No,Public,Mild,11,106,Low,1,1,0,0,Infection
+52,Trans Woman,Vaginoplasty,58,None,Partial,No,Public,Mild,10,115,Medium,7,0,0,0,Scarring
+52,Trans Woman,Top Surgery,13,None,Yes,Yes,Public,Severe,19,349,Medium,8,0,0,0,None
+50,Trans Woman,Facial Feminization,25,None,No,Yes,Private,None,18,179,Medium,3,0,0,0,Need for Revision Surgery
+22,Trans Woman,Facial Feminization,3,HIV,Yes,No,Private,Mild,6,243,Medium,4,0,1,0,None
+59,Trans Woman,Facial Feminization,24,None,No,Yes,Uninsured,None,15,168,Medium,10,0,0,0,Loss of Sensation
+56,Trans Man,Top Surgery,44,Diabetes,Yes,No,Private,Severe,10,222,Medium,7,1,0,0,Need for Revision Surgery
+58,Trans Woman,Vaginoplasty,41,None,No,No,Private,Severe,5,270,High,2,0,0,0,Loss of Sensation
+45,Trans Man,Vaginoplasty,24,Diabetes,Partial,Yes,Public,Mild,5,269,Medium,4,1,0,0,Infection
+24,Trans Man,Top Surgery,17,Mental Health,Partial,No,Public,Mild,10,298,Medium,2,0,0,1,Infection
+26,Trans Man,Vaginoplasty,39,Mental Health,Partial,No,Public,None,5,280,Medium,9,0,0,1,Mental Health Relapse
+25,Trans Man,Top Surgery,7,None,Partial,No,Uninsured,Mild,3,9,Medium,2,0,0,0,None
+29,Trans Man,Vaginoplasty,38,None,Partial,No,Private,Severe,6,34,Medium,2,0,0,0,Infection
+51,Trans Man,Phalloplasty,39,None,Yes,No,Private,Mild,4,332,Medium,6,0,0,0,Scarring
+50,Non-binary,Phalloplasty,13,HIV,Yes,No,Private,None,18,155,Low,6,0,1,0,Scarring
+40,Trans Man,Facial Feminization,31,HIV,No,Yes,Public,Mild,9,34,High,6,0,1,0,None
+41,Trans Man,Phalloplasty,50,Diabetes,Partial,No,Public,Severe,17,316,Medium,9,1,0,0,Scarring
+54,Trans Woman,Phalloplasty,37,Diabetes,Partial,No,Private,None,13,71,Low,7,1,0,0,Loss of Sensation
+52,Trans Woman,Phalloplasty,32,Mental Health,Yes,No,Public,None,15,362,Low,4,0,0,1,None
+57,Trans Man,Top Surgery,22,None,Yes,No,Public,Mild,17,27,Low,4,0,0,0,Need for Revision Surgery
+39,Trans Woman,Phalloplasty,14,HIV,Yes,No,Public,Severe,13,258,Medium,3,0,1,0,None
+44,Trans Woman,Phalloplasty,32,None,Partial,No,Uninsured,None,16,241,Low,6,0,0,0,None
+52,Trans Man,Facial Feminization,24,None,Yes,No,Private,None,4,233,Low,9,0,0,0,None
+18,Non-binary,Phalloplasty,16,Diabetes,Yes,No,Public,None,5,19,Low,3,1,0,0,None
+52,Trans Woman,Phalloplasty,32,None,Yes,No,Public,None,5,319,Low,1,0,0,0,Need for Revision Surgery
+54,Trans Man,Vaginoplasty,46,None,Yes,No,Public,Mild,9,55,Low,3,0,0,0,None
+31,Trans Man,Facial Feminization,54,Mental Health,Yes,No,Public,Mild,17,124,Medium,7,0,0,1,Infection
+20,Non-binary,Facial Feminization,1,None,Yes,No,Public,Mild,13,60,Low,8,0,0,0,None
+18,Trans Woman,Facial Feminization,13,Diabetes,Partial,No,Public,Mild,2,144,Medium,2,1,0,0,Bleeding
+22,Trans Woman,Facial Feminization,52,None,Yes,No,Private,None,13,59,Low,6,0,0,0,Bleeding
+43,Trans Woman,Facial Feminization,39,None,Yes,No,Public,Severe,19,50,Medium,8,0,0,0,None
+31,Trans Woman,Facial Feminization,39,None,Yes,No,Uninsured,Mild,3,309,Medium,10,0,0,0,None
+56,Non-binary,Top Surgery,50,None,Yes,No,Uninsured,Severe,10,59,Medium,3,0,0,0,Need for Revision Surgery
+44,Non-binary,Phalloplasty,38,Mental Health,Yes,No,Private,Mild,2,80,Medium,9,0,0,1,None
+26,Trans Woman,Facial Feminization,50,None,Yes,Yes,Private,None,13,52,Low,2,0,0,0,Infection
+32,Trans Woman,Phalloplasty,5,Diabetes,Partial,No,Private,Mild,19,19,Medium,4,1,0,0,None
+32,Trans Woman,Phalloplasty,5,None,Yes,No,Public,None,17,171,Low,0,0,0,0,Loss of Sensation
+43,Trans Woman,Top Surgery,2,Mental Health,Partial,No,Public,Mild,14,108,Medium,2,0,0,1,None
+59,Trans Woman,Facial Feminization,6,HIV,No,Yes,Private,None,12,286,High,7,0,1,0,Infection
+30,Trans Man,Vaginoplasty,50,Mental Health,Partial,No,Public,None,12,264,Medium,10,0,0,1,None
+49,Trans Woman,Top Surgery,7,None,Yes,No,Public,Severe,11,343,Medium,7,0,0,0,Mental Health Relapse
+56,Trans Woman,Vaginoplasty,41,None,Yes,No,Public,None,7,362,Low,3,0,0,0,None
+49,Trans Woman,Phalloplasty,51,None,Yes,Yes,Public,Severe,4,144,High,1,0,0,0,Loss of Sensation
+21,Trans Woman,Phalloplasty,14,Diabetes,Yes,Yes,Public,None,19,169,Low,7,1,0,0,Infection
+47,Trans Woman,Top Surgery,46,None,No,No,Public,Mild,1,117,High,7,0,0,0,None
+54,Trans Man,Top Surgery,28,None,Yes,No,Private,Mild,3,108,Medium,9,0,0,0,Loss of Sensation
+40,Trans Man,Vaginoplasty,32,Diabetes,Yes,No,Public,Mild,13,23,Low,3,1,0,0,None
+56,Trans Man,Facial Feminization,51,None,Partial,No,Public,None,15,274,Low,2,0,0,0,Need for Revision Surgery
+32,Trans Man,Vaginoplasty,29,Mental Health,Partial,No,Public,None,2,188,Medium,1,0,0,1,Need for Revision Surgery
+46,Trans Man,Top Surgery,38,None,Yes,No,Public,None,11,30,Low,8,0,0,0,Need for Revision Surgery
+53,Trans Woman,Vaginoplasty,26,None,Yes,No,Public,None,4,35,Low,0,0,0,0,None
+30,Trans Man,Top Surgery,35,Mental Health,Yes,No,Private,Mild,19,177,Medium,6,0,0,1,Loss of Sensation
+49,Trans Woman,Vaginoplasty,28,None,Yes,Yes,Public,Severe,17,234,Medium,4,0,0,0,Infection
+24,Trans Man,Top Surgery,37,Mental Health,Yes,No,Private,Severe,3,194,High,7,0,0,1,Need for Revision Surgery
+39,Trans Woman,Top Surgery,56,None,Yes,No,Private,Mild,18,352,Low,3,0,0,0,Bleeding
+45,Trans Man,Top Surgery,32,None,Yes,No,Public,Mild,8,236,Low,6,0,0,0,Loss of Sensation
+19,Trans Man,Facial Feminization,36,Mental Health,Yes,No,Uninsured,Mild,19,327,Medium,4,0,0,1,Infection
+59,Trans Woman,Vaginoplasty,26,Mental Health,Yes,No,Private,None,5,346,Low,4,0,0,1,Infection
+23,Trans Woman,Vaginoplasty,54,Mental Health,Yes,No,Public,Severe,7,125,Medium,8,0,0,1,None
+45,Trans Man,Vaginoplasty,32,None,Yes,Yes,Public,Mild,8,162,Medium,8,0,0,0,Loss of Sensation
+45,Non-binary,Top Surgery,3,Diabetes,Partial,Yes,Private,Mild,5,278,Medium,8,1,0,0,Infection
+37,Trans Man,Vaginoplasty,21,None,Partial,No,Public,None,17,181,Low,5,0,0,0,Infection
+47,Trans Woman,Vaginoplasty,1,None,Yes,No,Public,Mild,5,110,Low,5,0,0,0,Loss of Sensation
+28,Non-binary,Top Surgery,9,HIV,Yes,No,Public,Mild,4,98,Medium,4,0,1,0,Bleeding
+45,Trans Woman,Phalloplasty,4,None,Yes,Yes,Private,Severe,19,192,Medium,8,0,0,0,None
+42,Trans Woman,Top Surgery,58,Multiple,Partial,Yes,Private,Mild,2,289,High,9,1,1,1,Bleeding
+56,Trans Woman,Vaginoplasty,9,None,Partial,No,Public,None,11,187,Low,7,0,0,0,Infection
+50,Trans Woman,Top Surgery,32,None,Yes,Yes,Public,Severe,13,176,Medium,6,0,0,0,Infection
+18,Trans Woman,Phalloplasty,53,Diabetes,No,No,Private,None,15,193,Medium,6,1,0,0,None
+44,Trans Man,Top Surgery,37,HIV,Yes,No,Public,Mild,12,181,Medium,5,0,1,0,None
+30,Trans Man,Vaginoplasty,12,Mental Health,Yes,No,Private,None,11,228,Low,4,0,0,1,None
+58,Trans Woman,Phalloplasty,30,Mental Health,Partial,Yes,Public,Mild,7,239,High,3,0,0,1,Scarring
+20,Trans Woman,Facial Feminization,46,Mental Health,No,No,Private,Severe,5,168,High,2,0,0,1,None
+56,Trans Woman,Vaginoplasty,35,Mental Health,Partial,Yes,Uninsured,None,17,140,Medium,2,0,0,1,Infection
+23,Trans Man,Phalloplasty,44,Mental Health,Partial,No,Private,Severe,9,230,High,5,0,0,1,Need for Revision Surgery
+25,Trans Woman,Phalloplasty,23,None,Yes,No,Private,None,14,159,Low,3,0,0,0,None
+44,Trans Woman,Facial Feminization,51,None,Partial,No,Private,Severe,12,39,Medium,5,0,0,0,Infection
+26,Trans Man,Top Surgery,55,None,Yes,No,Private,Mild,6,61,Low,2,0,0,0,Loss of Sensation
+54,Trans Man,Top Surgery,14,Multiple,No,No,Public,Severe,17,13,High,3,1,1,1,Need for Revision Surgery
+50,Trans Woman,Vaginoplasty,28,HIV,Yes,No,Uninsured,None,19,250,Low,8,0,1,0,Scarring
+59,Trans Woman,Facial Feminization,7,None,Partial,No,Private,Severe,19,319,Medium,4,0,0,0,Scarring
+41,Trans Man,Top Surgery,4,Mental Health,Yes,No,Public,Mild,16,132,Medium,6,0,0,1,Loss of Sensation
+32,Trans Man,Facial Feminization,28,HIV,Partial,No,Public,None,12,18,Medium,9,0,1,0,Infection
+49,Trans Man,Top Surgery,46,None,Yes,No,Public,Severe,12,22,Medium,1,0,0,0,Loss of Sensation
+49,Trans Man,Phalloplasty,3,Diabetes,Partial,No,Public,None,6,214,Low,4,1,0,0,None
+41,Non-binary,Top Surgery,11,HIV,Yes,No,Private,Severe,4,49,High,8,0,1,0,Need for Revision Surgery
+58,Trans Woman,Facial Feminization,44,None,Yes,No,Public,None,6,141,Low,10,0,0,0,Infection
+29,Trans Man,Phalloplasty,1,Mental Health,Yes,No,Public,Mild,11,234,Medium,2,0,0,1,Bleeding
+56,Non-binary,Phalloplasty,26,None,Yes,Yes,Private,Mild,1,117,Medium,8,0,0,0,None
+19,Trans Woman,Phalloplasty,30,HIV,No,No,Public,None,15,313,Medium,10,0,1,0,Scarring
+20,Trans Woman,Facial Feminization,50,Multiple,Yes,No,Private,None,11,166,Low,5,1,1,1,None
+54,Trans Woman,Vaginoplasty,50,HIV,No,Yes,Public,None,19,337,High,3,0,1,0,Need for Revision Surgery
+34,Trans Man,Vaginoplasty,35,None,Yes,No,Private,Mild,18,270,Low,6,0,0,0,Loss of Sensation
+19,Trans Man,Vaginoplasty,35,HIV,Yes,No,Public,None,17,231,Low,7,0,1,0,None
+19,Trans Woman,Facial Feminization,25,Mental Health,Partial,No,Public,Mild,19,223,Medium,5,0,0,1,Loss of Sensation
+45,Trans Woman,Phalloplasty,42,None,Partial,Yes,Public,None,14,51,Medium,4,0,0,0,Loss of Sensation
+40,Trans Man,Vaginoplasty,26,Mental Health,Yes,No,Private,None,18,220,Low,5,0,0,1,Bleeding
+54,Non-binary,Facial Feminization,4,None,Yes,No,Public,Mild,19,65,Low,4,0,0,0,None
+49,Trans Woman,Vaginoplasty,19,Diabetes,Partial,No,Public,None,15,138,Low,7,1,0,0,None
+50,Trans Man,Top Surgery,10,None,Yes,No,Public,Severe,15,110,Medium,0,0,0,0,None
+18,Non-binary,Vaginoplasty,9,None,No,No,Public,Severe,4,201,High,10,0,0,0,None
+36,Non-binary,Vaginoplasty,39,None,No,No,Public,Mild,7,163,Medium,6,0,0,0,Need for Revision Surgery
+19,Non-binary,Phalloplasty,37,Mental Health,Partial,No,Public,Mild,13,104,Medium,9,0,0,1,None
+43,Trans Man,Facial Feminization,5,None,Yes,No,Private,Severe,3,232,Medium,9,0,0,0,Loss of Sensation
+49,Trans Woman,Phalloplasty,7,Mental Health,Partial,Yes,Public,None,16,211,Medium,10,0,0,1,None
+23,Trans Woman,Phalloplasty,22,None,Yes,No,Public,None,9,85,Low,1,0,0,0,Infection
+49,Trans Woman,Phalloplasty,46,None,Yes,No,Private,None,8,130,Low,8,0,0,0,Loss of Sensation
+21,Non-binary,Phalloplasty,25,Diabetes,Yes,No,Private,Mild,13,224,Low,0,1,0,0,Need for Revision Surgery
+28,Trans Woman,Phalloplasty,45,Mental Health,Yes,No,Private,None,17,10,Low,10,0,0,1,None
+34,Trans Woman,Vaginoplasty,42,None,No,No,Public,Mild,17,96,Medium,9,0,0,0,Infection
+55,Trans Woman,Phalloplasty,11,Diabetes,Partial,No,Public,Severe,17,110,Medium,5,1,0,0,Infection
+41,Trans Woman,Phalloplasty,25,HIV,Partial,Yes,Public,Severe,1,125,High,8,0,1,0,None
+22,Trans Woman,Facial Feminization,12,Diabetes,Yes,No,Public,Mild,8,139,Low,0,1,0,0,None
+51,Trans Man,Top Surgery,39,None,Yes,Yes,Public,None,19,318,Low,3,0,0,0,Infection
+23,Trans Man,Vaginoplasty,17,None,Yes,No,Private,Severe,6,102,Medium,3,0,0,0,Infection
+39,Trans Woman,Vaginoplasty,24,HIV,No,No,Private,Mild,3,337,High,8,0,1,0,Scarring
+28,Trans Man,Vaginoplasty,32,None,Yes,No,Public,None,5,149,Low,10,0,0,0,None
+33,Trans Woman,Phalloplasty,46,HIV,No,Yes,Private,None,13,294,High,4,0,1,0,Infection
+50,Trans Man,Phalloplasty,39,Diabetes,Yes,No,Private,Severe,15,34,Medium,4,1,0,0,Infection
+26,Trans Woman,Phalloplasty,59,HIV,Yes,No,Public,Mild,14,284,Medium,5,0,1,0,Scarring
+23,Trans Woman,Facial Feminization,42,Mental Health,Partial,No,Public,Severe,16,239,High,0,0,0,1,Need for Revision Surgery
+33,Trans Woman,Top Surgery,11,Multiple,Yes,Yes,Uninsured,Severe,18,23,High,0,1,1,1,Infection
+46,Trans Man,Phalloplasty,43,None,No,No,Uninsured,Mild,11,65,Medium,8,0,0,0,Loss of Sensation
+20,Non-binary,Top Surgery,35,Mental Health,No,No,Public,Mild,3,96,High,2,0,0,1,None
+37,Trans Woman,Facial Feminization,47,None,Yes,No,Public,Mild,10,205,Low,3,0,0,0,Infection
+53,Trans Man,Vaginoplasty,3,None,Yes,No,Public,None,10,32,Low,0,0,0,0,None
+36,Trans Woman,Phalloplasty,4,Diabetes,Yes,No,Public,Mild,16,31,Low,8,1,0,0,Infection
+43,Trans Woman,Top Surgery,55,HIV,No,No,Private,Mild,12,307,High,7,0,1,0,Scarring
+20,Trans Man,Top Surgery,36,Multiple,Yes,No,Public,Mild,2,345,Medium,1,1,1,1,Need for Revision Surgery
+36,Trans Woman,Phalloplasty,7,Mental Health,Partial,No,Public,Severe,9,273,High,7,0,0,1,None
+37,Trans Man,Vaginoplasty,41,None,Partial,No,Private,Mild,3,187,Medium,6,0,0,0,Bleeding
+49,Trans Man,Vaginoplasty,48,None,Partial,No,Public,Mild,15,74,Medium,10,0,0,0,Bleeding
+24,Trans Woman,Vaginoplasty,27,Mental Health,Yes,No,Public,Mild,3,357,Medium,5,0,0,1,None
+58,Trans Man,Facial Feminization,30,None,Partial,No,Private,Mild,19,327,Medium,0,0,0,0,None
+50,Trans Woman,Top Surgery,57,None,No,No,Private,Mild,18,55,Medium,6,0,0,0,None
+57,Trans Woman,Top Surgery,8,None,Yes,Yes,Private,None,8,181,Low,9,0,0,0,None
+56,Trans Woman,Top Surgery,53,None,Yes,No,Private,Mild,17,58,Low,6,0,0,0,None
+35,Trans Woman,Facial Feminization,50,None,No,No,Private,None,8,108,Medium,8,0,0,0,None
+57,Trans Woman,Top Surgery,28,None,Yes,No,Public,None,7,222,Low,0,0,0,0,None
+18,Trans Woman,Facial Feminization,13,None,No,No,Private,Mild,7,194,Medium,1,0,0,0,Scarring
+28,Trans Woman,Vaginoplasty,39,None,Yes,No,Public,Mild,3,63,Medium,10,0,0,0,Bleeding
+45,Trans Man,Phalloplasty,40,Multiple,Yes,No,Private,Severe,1,53,High,8,1,1,1,Mental Health Relapse
+42,Trans Woman,Top Surgery,21,None,No,No,Uninsured,Mild,4,165,High,8,0,0,0,Infection
+40,Trans Woman,Top Surgery,10,None,Yes,Yes,Private,Mild,5,180,Medium,5,0,0,0,Loss of Sensation
+48,Trans Man,Vaginoplasty,22,Mental Health,Yes,No,Public,Mild,1,248,Medium,5,0,0,1,Need for Revision Surgery
+47,Trans Woman,Phalloplasty,0,None,Yes,Yes,Public,Mild,15,288,Medium,3,0,0,0,Scarring
+59,Trans Woman,Facial Feminization,45,HIV,Yes,No,Public,None,5,247,Low,3,0,1,0,Infection
+52,Trans Woman,Phalloplasty,36,Mental Health,Yes,No,Private,None,13,11,Low,4,0,0,1,Loss of Sensation
+24,Non-binary,Vaginoplasty,20,None,Yes,No,Public,None,8,90,Low,2,0,0,0,None
+33,Trans Woman,Vaginoplasty,25,None,No,No,Public,Mild,8,314,Medium,0,0,0,0,None
+43,Trans Man,Phalloplasty,45,HIV,Yes,No,Public,None,5,254,Low,0,0,1,0,Infection
+19,Trans Man,Facial Feminization,35,HIV,Partial,Yes,Private,None,9,60,Medium,6,0,1,0,Bleeding
+18,Non-binary,Facial Feminization,53,None,Yes,No,Private,None,1,167,Low,0,0,0,0,None
+29,Non-binary,Top Surgery,22,Diabetes,Partial,No,Public,Severe,4,232,High,0,1,0,0,Need for Revision Surgery
+22,Trans Man,Facial Feminization,56,None,Yes,No,Public,None,3,21,Low,2,0,0,0,Scarring
+54,Trans Woman,Phalloplasty,0,Multiple,No,No,Public,Mild,2,230,High,9,1,1,1,Infection
+49,Trans Man,Vaginoplasty,53,None,Yes,No,Public,None,8,67,Low,3,0,0,0,Need for Revision Surgery
+26,Trans Man,Top Surgery,54,HIV,Yes,Yes,Public,Mild,9,128,Medium,3,0,1,0,Infection
+58,Trans Man,Top Surgery,50,Diabetes,Yes,No,Private,None,2,283,Low,1,1,0,0,Mental Health Relapse
+52,Trans Man,Vaginoplasty,39,Diabetes,Yes,No,Public,None,14,52,Low,0,1,0,0,Infection
+36,Non-binary,Facial Feminization,14,Diabetes,Yes,Yes,Private,Mild,14,300,Medium,2,1,0,0,None
+33,Trans Woman,Vaginoplasty,20,None,Yes,No,Public,None,4,68,Low,10,0,0,0,Loss of Sensation
+20,Trans Man,Facial Feminization,46,None,Partial,Yes,Public,None,6,92,Medium,3,0,0,0,Scarring
+37,Trans Woman,Vaginoplasty,8,None,Yes,Yes,Uninsured,None,11,216,Low,2,0,0,0,Loss of Sensation
+41,Non-binary,Phalloplasty,52,None,Yes,Yes,Private,None,3,84,Medium,7,0,0,0,Urinary Issues
+50,Non-binary,Facial Feminization,8,Mental Health,Partial,No,Private,None,8,208,Medium,9,0,0,1,Loss of Sensation
+41,Trans Man,Phalloplasty,9,None,Partial,No,Private,None,3,308,Medium,0,0,0,0,Bleeding
+28,Trans Man,Top Surgery,51,None,Yes,No,Private,Severe,14,229,Medium,1,0,0,0,Need for Revision Surgery
+25,Trans Man,Vaginoplasty,56,Multiple,Yes,No,Private,Mild,13,228,Medium,6,1,1,1,Scarring
+53,Trans Man,Top Surgery,52,HIV,Yes,No,Uninsured,Mild,13,9,Medium,3,0,1,0,Infection
+55,Trans Man,Top Surgery,25,HIV,Partial,No,Private,None,2,12,Medium,7,0,1,0,Need for Revision Surgery
+57,Trans Woman,Top Surgery,40,Multiple,Partial,No,Private,Severe,13,99,High,10,1,1,1,None
+37,Trans Man,Top Surgery,34,None,Yes,Yes,Public,None,19,14,Low,2,0,0,0,Scarring
+52,Trans Man,Vaginoplasty,51,None,Partial,No,Public,None,6,241,Low,5,0,0,0,Need for Revision Surgery
+42,Trans Man,Top Surgery,24,Mental Health,Partial,No,Public,Mild,16,114,Medium,8,0,0,1,Scarring
+52,Trans Man,Vaginoplasty,25,Mental Health,Yes,No,Private,None,2,167,Medium,0,0,0,1,Scarring
+42,Trans Man,Vaginoplasty,10,None,No,No,Public,None,8,215,Medium,0,0,0,0,Loss of Sensation
+46,Trans Woman,Phalloplasty,37,Mental Health,Yes,Yes,Private,Mild,17,246,Medium,7,0,0,1,Infection
+35,Trans Man,Facial Feminization,1,None,Yes,Yes,Private,Severe,2,337,High,2,0,0,0,Need for Revision Surgery
+35,Trans Man,Facial Feminization,6,None,Yes,No,Uninsured,Mild,10,339,Low,4,0,0,0,None
+19,Trans Woman,Vaginoplasty,17,Diabetes,Yes,No,Private,Mild,16,56,Low,0,1,0,0,None
+52,Trans Woman,Phalloplasty,26,Diabetes,Yes,Yes,Public,Severe,6,17,Medium,4,1,0,0,None
+33,Trans Man,Vaginoplasty,33,Diabetes,No,No,Public,None,2,357,Medium,10,1,0,0,Infection
+58,Trans Man,Vaginoplasty,26,None,Yes,Yes,Private,None,2,162,Medium,5,0,0,0,Infection
+53,Trans Man,Vaginoplasty,16,HIV,Yes,No,Public,None,13,76,Low,7,0,1,0,Loss of Sensation
+50,Non-binary,Phalloplasty,42,None,Yes,No,Private,Mild,15,175,Low,2,0,0,0,Infection
+21,Trans Woman,Facial Feminization,58,None,No,No,Public,Mild,2,278,High,2,0,0,0,Infection
+50,Trans Woman,Phalloplasty,43,HIV,Yes,Yes,Uninsured,Severe,7,74,High,10,0,1,0,None
+31,Non-binary,Top Surgery,58,Multiple,Yes,Yes,Public,Mild,3,361,High,10,1,1,1,Infection
+38,Trans Man,Phalloplasty,50,HIV,Yes,No,Uninsured,Mild,8,258,Medium,9,0,1,0,Bleeding
+37,Trans Woman,Phalloplasty,53,Mental Health,Yes,Yes,Private,None,14,54,Medium,8,0,0,1,None
+25,Trans Woman,Phalloplasty,23,Mental Health,No,No,Public,Severe,7,190,High,3,0,0,1,None
+24,Trans Man,Phalloplasty,24,Diabetes,No,Yes,Private,Severe,7,326,High,3,1,0,0,None
+20,Trans Woman,Facial Feminization,6,None,Yes,No,Public,Severe,1,193,Medium,6,0,0,0,None
+34,Trans Woman,Top Surgery,51,None,No,No,Uninsured,None,17,96,Medium,1,0,0,0,Infection
+50,Trans Woman,Facial Feminization,5,None,Partial,No,Private,Mild,9,338,Medium,7,0,0,0,None
+29,Non-binary,Facial Feminization,52,None,No,No,Public,None,13,145,Medium,5,0,0,0,Scarring
+39,Trans Man,Phalloplasty,23,Mental Health,Yes,No,Private,None,19,363,Low,2,0,0,1,Loss of Sensation
+39,Trans Woman,Vaginoplasty,32,None,Yes,No,Public,None,19,95,Low,8,0,0,0,Infection
+47,Trans Man,Vaginoplasty,48,None,Yes,No,Public,Mild,17,280,Low,4,0,0,0,Mental Health Relapse
+55,Trans Woman,Facial Feminization,28,None,Partial,No,Uninsured,Mild,10,25,Medium,7,0,0,0,Infection
+55,Trans Woman,Facial Feminization,42,Mental Health,Yes,Yes,Public,None,10,317,Medium,6,0,0,1,Infection
+25,Trans Man,Phalloplasty,21,None,Yes,No,Private,None,4,364,Low,7,0,0,0,Mental Health Relapse
+44,Trans Man,Facial Feminization,25,HIV,Yes,No,Private,Mild,8,160,Medium,6,0,1,0,None
+44,Trans Man,Phalloplasty,27,None,Partial,Yes,Private,None,18,266,Medium,2,0,0,0,Need for Revision Surgery
+51,Trans Man,Vaginoplasty,49,None,Yes,No,Private,None,14,114,Low,1,0,0,0,None
+38,Trans Man,Vaginoplasty,20,Diabetes,Partial,No,Private,Mild,18,291,Medium,6,1,0,0,Infection
+47,Trans Woman,Top Surgery,48,Mental Health,No,No,Public,Mild,14,65,High,2,0,0,1,None
+50,Trans Woman,Vaginoplasty,6,None,Yes,No,Public,None,15,131,Low,2,0,0,0,Scarring
+45,Trans Woman,Facial Feminization,16,Mental Health,Partial,No,Public,None,4,360,Medium,1,0,0,1,Bleeding
